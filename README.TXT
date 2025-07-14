@@ -1,3 +1,13 @@
+
+
+sudo apt -y update; sudo apt -y install build-essential git cmake make libsdl1.2-compat-dev
+
+git clone https://github.com/https://github.com/The-little-Milk-v-computer/fbDOOM.git/fbDOOM.git
+cd fbDOOM/fbdoom
+make
+
+
+
 ================
 = fbDOOM =
 ================
